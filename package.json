@@ -1,0 +1,24 @@
+{
+  "name": "discordbotdersleri",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Serhan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cleverbot-node": "^0.3.11",
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "string-similarity": "^1.2.1",
+    "unique-random": "^2.0.0",
+    "ytdl-core": "^0.24.0"
+  }
+}
